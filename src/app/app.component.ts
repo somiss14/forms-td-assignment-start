@@ -16,7 +16,7 @@ export class AppComponent {
     email: '',
     password: '',
     advLevel: ''
-  }
+  };
   onSubmit() {
     this.submitted = true;
 
